@@ -26,7 +26,7 @@ fieldnames = [ 'Màu Mắt','Kiểu Mắt', 'Màu Tóc Tự Nhiên', 'Màu Da', 
             , 'Kiểu Tóc', 'Kiểu Môi','Râu Tóc Lông', 'Chủng Tộc']
 
 records = []
-for i in range(2000):
+for i in range(3000):
     record = { 'Màu Mắt':'','Kiểu Mắt':'', 'Màu Tóc Tự Nhiên':'', 'Màu Da':'', 'Kiểu Mũi':''
             , 'Kiểu Tóc':'','Kiểu Môi':'','Râu Tóc Lông':'',  'Chủng Tộc':''}
    

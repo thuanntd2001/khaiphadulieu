@@ -4,7 +4,7 @@
 lstMauMatTuNhien=["Đen","Nâu","Lam","Vàng","Xám","Lục","Đỏ","Tím","Dị sấc"]
 lstMauTocTuNhien=["Đen","Nâu","Lam","Vàng","Xám","Đỏ"]
 lstMauDaTuNhien=["Đen", "Trắng", "Vàng"]
-lstSongMuiTuNhien=["Cao","Vừa","Thấp"]
+lstSongMuiTuNhien=["Cao","Thấp"]
 lstKieuTocTuNhien=["Xoăn","Thẳng"]
 lstKieuMoi=["Dày","Mỏng"]
 
