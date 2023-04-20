@@ -2,13 +2,14 @@ import numpy as np
 from gen import *
 
 
-lstMauMatTuNhien=["Đen","Lam","Vàng","Xám","Lục","Đỏ","Tím","Dị sấc"]
-lstKieuMat=["To","Vừa","Nhỏ"]
+lstMauMatTuNhien=["Đen","Lam","Vàng"]
+lstKieuMat=["To","Nhỏ"]
 lstMauTocTuNhien=["Đen","Vàng","Đỏ"]
 lstRauTocLong=["Rậm", "Thưa"]
 lstKieuMuiTuNhien=["Cao","Thấp"]
 lstKieuTocTuNhien=["Xoăn","Thẳng","Lượn sóng"]
-lstKieuMoi=["Dày","Mỏng","Vừa"]
+lstKieuMoi=["Dày","Mỏng"]
+lstMauDa=["Trắng Sáng","Trắng Vàng","Nâu Vừa", "Nâu Sậm"]
 
 
 def phanPhoiChuan(a,b,c):
@@ -30,15 +31,15 @@ for i in range(3000):
     record = { 'Màu Mắt':'','Kiểu Mắt':'', 'Màu Tóc Tự Nhiên':'', 'Màu Da':'', 'Kiểu Mũi':''
             , 'Kiểu Tóc':'','Kiểu Môi':'','Râu Tóc Lông':'',  'Chủng Tộc':''}
    
-    record['Màu Mắt']=(choose2(lstMauMatTuNhien, 80, 10.5,2,6,0.5,0.5,0.3,0.2))
-    record['Kiểu Mắt']=(choose2(lstKieuMat, 40,10,50))
-    record['Màu Tóc Tự Nhiên']=(choose2(lstMauTocTuNhien, 75,20,5))
+    record['Màu Mắt']=(choose2(lstMauMatTuNhien, 90, 8,2))
+    record['Kiểu Mắt']=(choose2(lstKieuMat, 40,60))
+    record['Màu Tóc Tự Nhiên']=(choose2(lstMauTocTuNhien, 90,8,2))
 #    record['Màu Da']=(int(np.random.normal(22,6, 1)))
-    record['Màu Da']=phanPhoiChuan(17,10, 1)
-    record['Kiểu Mũi']=(choose2(lstKieuMuiTuNhien,40, 60))
-    record['Kiểu Tóc']=(choose2(lstKieuTocTuNhien, 30,35,35))
-    record['Kiểu Môi']=(choose2(lstKieuMoi, 30,30,40))
-    record['Râu Tóc Lông']=(choose2(lstRauTocLong, 50,50))
+    record['Màu Da']=(choose2(lstMauDa, 5,20,35,40))
+    record['Kiểu Mũi']=(choose2(lstKieuMuiTuNhien,20, 80))
+    record['Kiểu Tóc']=(choose2(lstKieuTocTuNhien, 40,30,30))
+    record['Kiểu Môi']=(choose2(lstKieuMoi, 60,40))
+    record['Râu Tóc Lông']=(choose2(lstRauTocLong, 70,30))
 
     record['Chủng Tộc']=''
     records.append(record)
