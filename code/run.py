@@ -2,18 +2,18 @@ import numpy as np
 from gen import *
 
 
-lstMauMatTuNhien=["Đen","Nâu","Lam","Vàng","Xám","Lục","Đỏ","Tím","Dị sấc"]
+lstMauMatTuNhien=["Đen","Lam","Vàng","Xám","Lục","Đỏ","Tím","Dị sấc"]
 lstKieuMat=["To","Vừa","Nhỏ"]
-lstMauTocTuNhien=["Đen","Nâu","Lam","Vàng","Đỏ"]
+lstMauTocTuNhien=["Đen","Vàng","Đỏ"]
 lstRauTocLong=["Rậm", "Thưa"]
-lstKieuMuiTuNhien=["Cao","Gãy","Thấp","Lỗ mũi to"]
+lstKieuMuiTuNhien=["Cao","Thấp"]
 lstKieuTocTuNhien=["Xoăn","Thẳng","Lượn sóng"]
 lstKieuMoi=["Dày","Mỏng","Vừa"]
 
 
 def phanPhoiChuan(a,b,c):
     d=-1
-    while d<1 and d>35:
+    while d<1 or d>35:
         d=(int(np.random.normal(a,b,c)))
     return d
 
@@ -30,13 +30,13 @@ for i in range(3000):
     record = { 'Màu Mắt':'','Kiểu Mắt':'', 'Màu Tóc Tự Nhiên':'', 'Màu Da':'', 'Kiểu Mũi':''
             , 'Kiểu Tóc':'','Kiểu Môi':'','Râu Tóc Lông':'',  'Chủng Tộc':''}
    
-    record['Màu Mắt']=(choose2(lstMauMatTuNhien, 35, 45, 10.5,2,6,0.5,0.5,0.3,0.2))
+    record['Màu Mắt']=(choose2(lstMauMatTuNhien, 80, 10.5,2,6,0.5,0.5,0.3,0.2))
     record['Kiểu Mắt']=(choose2(lstKieuMat, 40,10,50))
-    record['Màu Tóc Tự Nhiên']=(choose2(lstMauTocTuNhien, 40, 44, 1,10,5))
+    record['Màu Tóc Tự Nhiên']=(choose2(lstMauTocTuNhien, 75,20,5))
 #    record['Màu Da']=(int(np.random.normal(22,6, 1)))
     record['Màu Da']=phanPhoiChuan(17,10, 1)
-    record['Kiểu Mũi']=(choose2(lstKieuMuiTuNhien,25, 15, 35,25))
-    record['Kiểu Tóc']=(choose2(lstKieuTocTuNhien, 40,40,20))
+    record['Kiểu Mũi']=(choose2(lstKieuMuiTuNhien,40, 60))
+    record['Kiểu Tóc']=(choose2(lstKieuTocTuNhien, 30,35,35))
     record['Kiểu Môi']=(choose2(lstKieuMoi, 30,30,40))
     record['Râu Tóc Lông']=(choose2(lstRauTocLong, 50,50))
 
@@ -44,7 +44,7 @@ for i in range(3000):
     records.append(record)
 
 
-with open('data.csv', 'w', encoding='UTF8', newline='') as f:
+with open('dataSinhv2.csv', 'w', encoding='UTF8', newline='') as f:
     writer = csv.DictWriter(f, fieldnames=fieldnames)
     writer.writeheader()
     writer.writerows(records)

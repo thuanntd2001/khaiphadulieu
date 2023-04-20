@@ -6,15 +6,19 @@ Màu Mắt,Kiểu Mắt,Màu Tóc Tự Nhiên,Màu Da,Kiểu Mũi,Kiểu Tóc,Ki
 Đen,Nhỏ,Đen,27,Thấp,Thẳng,Vừa,Thưa,Uc
 Đen,Nhỏ,Đen,12,Thấp,Xoăn,Mỏng,Rậm,Au
 Lam,Nhỏ,Đen,27,Cao,Thẳng,Vừa,Thưa,Uc
+Đen,Vừa,Đen,29,Thấp,Xoăn,Vừa,Thưa,Uc
 Đen,Nhỏ,Đen,14,Thấp,Thẳng,Vừa,Thưa,Au
 Đen,Nhỏ,Đen,25,Thấp,Thẳng,Vừa,Rậm,Phi
 Đen,Nhỏ,Đen,18,Thấp,Lượn sóng,Vừa,Rậm,Au
+Xám,Vừa,Đen,26,Cao,Lượn sóng,Vừa,Rậm,Phi
 Vàng,To,Vàng,26,Cao,Xoăn,Dày,Rậm,Uc
 Đen,Nhỏ,Đen,25,Thấp,Lượn sóng,Dày,Thưa,Uc
+Đen,Vừa,Đen,29,Thấp,Xoăn,Vừa,Rậm,Phi
 Đen,To,Đen,24,Cao,Lượn sóng,Mỏng,Thưa,Phi
 Đen,To,Đen,20,Thấp,Xoăn,Mỏng,Rậm,Au
 Đen,Nhỏ,Đen,20,Cao,Thẳng,Vừa,Thưa,Au
 Đen,To,Đen,14,Thấp,Thẳng,Mỏng,Rậm,Au
+Đen,Vừa,Đen,20,Cao,Thẳng,Vừa,Rậm,Au
 Đen,To,Đen,25,Thấp,Xoăn,Vừa,Rậm,Phi
 Đen,To,Đỏ,31,Thấp,Xoăn,Dày,Thưa,Phi
 Lam,To,Đen,22,Cao,Xoăn,Vừa,Rậm,Au
@@ -22,6 +26,7 @@ Lam,To,Đen,22,Cao,Xoăn,Vừa,Rậm,Au
 Đen,Nhỏ,Đen,19,Thấp,Thẳng,Mỏng,Thưa,Au
 Đen,Nhỏ,Đen,24,Cao,Thẳng,Vừa,Thưa,Uc
 Đen,To,Lam,31,Thấp,Xoăn,Dày,Thưa,Uc
+Lam,Vừa,Đen,32,Cao,Xoăn,Mỏng,Rậm,Uc
 Đen,Nhỏ,Đen,31,Thấp,Lượn sóng,Mỏng,Thưa,Uc
 Đen,Nhỏ,Đen,17,Cao,Lượn sóng,Mỏng,Rậm,A
 Đen,Nhỏ,Đen,12,Thấp,Lượn sóng,Dày,Rậm,Au
@@ -36,16 +41,22 @@ Lam,To,Đen,22,Cao,Xoăn,Vừa,Rậm,Au
 Đen,To,Đen,26,Thấp,Xoăn,Mỏng,Thưa,Uc
 Đen,Nhỏ,Vàng,31,Thấp,Thẳng,Dày,Thưa,Phi
 Đen,To,Đen,24,Thấp,Thẳng,Mỏng,Thưa,Phi
+Đen,Vừa,Đen,25,Thấp,Thẳng,Mỏng,Thưa,Phi
 Đen,To,Đen,13,Thấp,Xoăn,Vừa,Thưa,Au
+Đen,Vừa,Đen,33,Cao,Thẳng,Mỏng,Rậm,Uc
 Đen,To,Đen,28,Thấp,Xoăn,Mỏng,Rậm,Uc
+Đen,Vừa,Đen,27,Thấp,Xoăn,Vừa,Thưa,Uc
 Đen,To,Đen,15,Cao,Xoăn,Mỏng,Rậm,Au
 Đen,To,Vàng,28,Cao,Xoăn,Vừa,Thưa,Phi
+Đen,Vừa,Đen,16,Thấp,Lượn sóng,Dày,Rậm,A
 Đen,Nhỏ,Đen,11,Thấp,Xoăn,Mỏng,Rậm,Au
 Đen,To,Vàng,31,Cao,Thẳng,Mỏng,Thưa,Phi
 Đen,Nhỏ,Đen,32,Thấp,Thẳng,Dày,Rậm,Uc
 Đen,Nhỏ,Đen,25,Cao,Xoăn,Vừa,Thưa,Phi
 Đen,Nhỏ,Đen,26,Thấp,Xoăn,Dày,Thưa,Uc
 Đen,Nhỏ,Đỏ,20,Cao,Lượn sóng,Mỏng,Thưa,A
+Đen,Vừa,Đen,27,Thấp,Lượn sóng,Mỏng,Rậm,Uc
+Đen,Vừa,Đen,17,Thấp,Thẳng,Mỏng,Thưa,Au
 Đen,To,Đỏ,25,Cao,Lượn sóng,Dày,Thưa,Phi
 Lam,To,Vàng,15,Thấp,Thẳng,Mỏng,Rậm,Au
 Lam,Nhỏ,Đen,27,Thấp,Xoăn,Dày,Rậm,Uc
@@ -62,6 +73,8 @@ Vàng,Nhỏ,Đen,9,Cao,Thẳng,Vừa,Rậm,Au
 Đen,Nhỏ,Đen,31,Thấp,Lượn sóng,Mỏng,Rậm,Phi
 Đen,To,Đen,25,Thấp,Lượn sóng,Dày,Rậm,Phi
 Đen,Nhỏ,Vàng,24,Thấp,Lượn sóng,Dày,Thưa,Phi
+Đen,Vừa,Đen,28,Thấp,Xoăn,Dày,Rậm,Phi
+Đen,Vừa,Đen,14,Cao,Thẳng,Dày,Thưa,Au
 Đen,To,Đen,17,Cao,Lượn sóng,Dày,Thưa,Au
 Đen,To,Đen,18,Cao,Xoăn,Vừa,Rậm,Au
 Đen,Nhỏ,Đen,40,Cao,Thẳng,Mỏng,Thưa,Uc
@@ -91,6 +104,7 @@ Xám,To,Đen,30,Thấp,Lượn sóng,Dày,Thưa,Uc
 Đen,Nhỏ,Đen,13,Cao,Lượn sóng,Mỏng,Rậm,A
 Đen,Nhỏ,Đỏ,17,Cao,Thẳng,Mỏng,Rậm,Au
 Đen,To,Đen,25,Cao,Xoăn,Mỏng,Rậm,Phi
+Vàng,Vừa,Đen,33,Thấp,Xoăn,Mỏng,Thưa,Uc
 Đen,To,Đen,26,Cao,Lượn sóng,Vừa,Rậm,Phi
 Đen,Nhỏ,Đen,22,Thấp,Thẳng,Mỏng,Thưa,Au
 Đen,To,Đen,22,Cao,Xoăn,Dày,Rậm,Au
@@ -98,11 +112,14 @@ Xám,To,Đen,30,Thấp,Lượn sóng,Dày,Thưa,Uc
 Đen,Nhỏ,Đen,23,Cao,Lượn sóng,Vừa,Thưa,A
 Đen,To,Đen,30,Cao,Thẳng,Mỏng,Thưa,Uc
 Đen,Nhỏ,Đen,20,Cao,Thẳng,Dày,Thưa,Au
+Đen,Vừa,Vàng,23,Thấp,Lượn sóng,Mỏng,Rậm,Au
 Đen,Nhỏ,Vàng,31,Thấp,Xoăn,Mỏng,Rậm,Uc
 Đen,Nhỏ,Đen,24,Cao,Xoăn,Mỏng,Rậm,Uc
 Đen,Nhỏ,Đen,11,Thấp,Thẳng,Mỏng,Thưa,Au
 Đen,To,Đen,29,Thấp,Xoăn,Dày,Rậm,Uc
+Đen,Vừa,Đen,16,Cao,Lượn sóng,Dày,Rậm,A
 Đen,To,Đen,27,Thấp,Xoăn,Dày,Thưa,Uc
+Đen,Vừa,Đen,34,Thấp,Xoăn,Mỏng,Rậm,Uc
 Xám,Nhỏ,Đen,24,Cao,Thẳng,Vừa,Thưa,Phi
 Xám,To,Đen,27,Thấp,Thẳng,Vừa,Thưa,Uc
 Đen,Nhỏ,Đen,24,Thấp,Thẳng,Mỏng,Rậm,Phi
@@ -112,10 +129,14 @@ Xám,Nhỏ,Đen,21,Thấp,Thẳng,Mỏng,Rậm,Au
 Đen,To,Đen,24,Cao,Thẳng,Vừa,Rậm,Phi
 Đen,Nhỏ,Vàng,34,Cao,Xoăn,Vừa,Rậm,Phi
 Đen,To,Lam,20,Cao,Xoăn,Mỏng,Rậm,Au
+Đen,Vừa,Đen,14,Cao,Lượn sóng,Mỏng,Rậm,Au
 Đen,To,Đen,21,Thấp,Thẳng,Vừa,Thưa,Au
+Xám,Vừa,Đen,16,Cao,Thẳng,Dày,Rậm,Au
 Đen,Nhỏ,Đen,12,Cao,Lượn sóng,Mỏng,Thưa,A
+Đen,Vừa,Đen,16,Thấp,Xoăn,Mỏng,Rậm,Au
 Đen,To,Đen,23,Thấp,Xoăn,Mỏng,Thưa,Au
 Đen,To,Đen,20,Thấp,Xoăn,Vừa,Thưa,Au
+Lam,Vừa,Đen,24,Cao,Lượn sóng,Vừa,Rậm,Phi
 Đen,Nhỏ,Đen,25,Thấp,Thẳng,Dày,Rậm,Phi
 Đen,Nhỏ,Đen,29,Thấp,Thẳng,Dày,Thưa,Uc
 Đen,To,Vàng,26,Thấp,Lượn sóng,Vừa,Thưa,Phi
@@ -144,9 +165,11 @@ Xám,Nhỏ,Đen,24,Cao,Lượn sóng,Mỏng,Thưa,Uc
 Đen,To,Vàng,34,Thấp,Xoăn,Vừa,Rậm,Uc
 Đen,To,Đen,28,Thấp,Thẳng,Vừa,Thưa,Phi
 Vàng,To,Đen,27,Cao,Thẳng,Mỏng,Thưa,Phi
+Lam,Vừa,Vàng,17,Thấp,Xoăn,Dày,Rậm,Au
 Đen,To,Đen,19,Thấp,Thẳng,Vừa,Rậm,A
 Đen,To,Đen,24,Cao,Xoăn,Vừa,Thưa,A
 Đen,To,Đen,21,Cao,Xoăn,Vừa,Thưa,A
+Đen,Vừa,Đen,18,Thấp,Xoăn,Dày,Thưa,A
 Đen,Nhỏ,Đen,12,Cao,Thẳng,Dày,Thưa,Au
 Đen,To,Đen,42,Cao,Thẳng,Dày,Rậm,Uc
 Đen,To,Đen,20,Thấp,Thẳng,Dày,Thưa,A
@@ -156,6 +179,7 @@ Vàng,To,Đen,27,Cao,Thẳng,Mỏng,Thưa,Phi
 Đen,To,Đen,29,Thấp,Thẳng,Dày,Rậm,Phi
 Đen,Nhỏ,Đen,37,Cao,Thẳng,Mỏng,Rậm,Uc
 Đen,Nhỏ,Đen,25,Cao,Xoăn,Mỏng,Thưa,Uc
+Lam,Vừa,Đen,22,Cao,Thẳng,Vừa,Thưa,Au
 Đen,Nhỏ,Đen,23,Thấp,Thẳng,Vừa,Rậm,A
 Đen,Nhỏ,Đỏ,18,Cao,Xoăn,Vừa,Thưa,Au
 Đen,To,Đen,16,Cao,Lượn sóng,Mỏng,Thưa,A
@@ -166,6 +190,7 @@ Vàng,To,Vàng,17,Cao,Xoăn,Dày,Rậm,Au
 Đen,Nhỏ,Đen,21,Thấp,Xoăn,Mỏng,Thưa,A
 Đen,To,Đen,18,Cao,Xoăn,Vừa,Rậm,A
 Đen,To,Đen,20,Thấp,Thẳng,Vừa,Rậm,A
+Đen,Vừa,Đen,22,Cao,Thẳng,Vừa,Thưa,A
 Lam,Nhỏ,Đen,15,Cao,Xoăn,Dày,Rậm,Au
 Đen,To,Đen,19,Thấp,Thẳng,Dày,Rậm,A
 Đen,Nhỏ,Đen,20,Cao,Lượn sóng,Dày,Rậm,Au
@@ -190,12 +215,17 @@ Lam,To,Đỏ,12,Cao,Xoăn,Dày,Thưa,Au
 Đen,Nhỏ,Đen,16,Thấp,Xoăn,Vừa,Thưa,A
 Đen,Nhỏ,Đen,21,Cao,Xoăn,Mỏng,Thưa,A
 Đen,To,Đen,9,Cao,Thẳng,Vừa,Thưa,Au
+Đen,Vừa,Đen,27,Cao,Xoăn,Vừa,Rậm,Uc
 Đen,To,Đen,19,Thấp,Thẳng,Mỏng,Thưa,A
 Đen,To,Đen,18,Thấp,Xoăn,Vừa,Thưa,A
 Đen,Nhỏ,Đen,13,Thấp,Xoăn,Dày,Rậm,Au
+Đen,Vừa,Đen,25,Thấp,Xoăn,Dày,Rậm,Uc
 Đen,To,Đen,17,Cao,Thẳng,Dày,Rậm,A
 Đen,To,Đen,18,Cao,Lượn sóng,Vừa,Rậm,Au
+Đen,Vừa,Đen,23,Cao,Thẳng,Vừa,Rậm,A
 Đen,To,Đen,33,Cao,Xoăn,Vừa,Rậm,Uc
+Đen,Vừa,Đen,17,Thấp,Xoăn,Vừa,Thưa,A
+Đen,Vừa,Đen,15,Thấp,Xoăn,Vừa,Thưa,A
 Đen,To,Đen,22,Cao,Xoăn,Mỏng,Thưa,A
 Đen,To,Đen,30,Cao,Xoăn,Dày,Thưa,Phi
 Đen,Nhỏ,Đen,19,Cao,Lượn sóng,Vừa,Rậm,A
@@ -211,6 +241,7 @@ Lam,To,Đỏ,12,Cao,Xoăn,Dày,Thưa,Au
 Đen,Nhỏ,Đen,21,Thấp,Thẳng,Vừa,Thưa,A
 Đen,Nhỏ,Đen,20,Thấp,Thẳng,Vừa,Rậm,A
 Đen,To,Đen,24,Thấp,Thẳng,Mỏng,Rậm,Uc
+Đen,Vừa,Đen,15,Thấp,Xoăn,Mỏng,Rậm,Au
 Đen,Nhỏ,Đen,26,Cao,Lượn sóng,Mỏng,Rậm,Uc
 Xám,To,Đen,31,Cao,Thẳng,Dày,Rậm,Uc
 Đen,Nhỏ,Đen,23,Thấp,Thẳng,Vừa,Rậm,A
@@ -220,6 +251,7 @@ Xám,To,Đỏ,6,Thấp,Xoăn,Vừa,Thưa,Au
 Đen,To,Đen,23,Thấp,Xoăn,Mỏng,Rậm,Uc
 Lam,To,Đen,8,Thấp,Lượn sóng,Dày,Rậm,Au
 Đen,To,Đen,19,Thấp,Lượn sóng,Vừa,Thưa,Uc
+Đen,Vừa,Vàng,12,Thấp,Xoăn,Vừa,Thưa,Au
 Đen,To,Đen,16,Thấp,Lượn sóng,Dày,Thưa,A
 Đen,Nhỏ,Đen,20,Thấp,Thẳng,Dày,Thưa,A
 Đen,To,Đen,20,Cao,Thẳng,Mỏng,Rậm,A
@@ -229,6 +261,7 @@ Vàng,To,Đen,11,Thấp,Lượn sóng,Mỏng,Rậm,Au
 Đen,Nhỏ,Đen,21,Thấp,Xoăn,Dày,Rậm,A
 Đen,Nhỏ,Đen,23,Thấp,Thẳng,Vừa,Rậm,A
 Đen,To,Đen,21,Thấp,Thẳng,Vừa,Thưa,A
+Đen,Vừa,Đen,12,Thấp,Lượn sóng,Mỏng,Rậm,Au
 Đen,Nhỏ,Đen,34,Thấp,Thẳng,Dày,Thưa,Phi
 Đen,To,Đỏ,6,Cao,Lượn sóng,Mỏng,Thưa,Au
 Đen,To,Vàng,23,Thấp,Lượn sóng,Vừa,Thưa,Uc
@@ -238,12 +271,15 @@ Xám,Nhỏ,Đen,28,Cao,Xoăn,Dày,Rậm,Uc
 Đen,Nhỏ,Đen,21,Thấp,Thẳng,Vừa,Thưa,A
 Đen,Nhỏ,Đen,16,Cao,Thẳng,Dày,Thưa,A
 Đen,Nhỏ,Vàng,24,Cao,Thẳng,Vừa,Rậm,Uc
+Đen,Vừa,Đen,28,Thấp,Xoăn,Dày,Rậm,Uc
 Đen,Nhỏ,Đen,31,Thấp,Thẳng,Vừa,Thưa,Phi
 Đen,Nhỏ,Đen,20,Thấp,Xoăn,Vừa,Thưa,A
+Đen,Vừa,Vàng,27,Cao,Thẳng,Mỏng,Rậm,Uc
 Xám,Nhỏ,Đen,30,Cao,Thẳng,Vừa,Thưa,Phi
 Đen,Nhỏ,Đen,25,Thấp,Thẳng,Mỏng,Thưa,Uc
 Đen,To,Vàng,25,Thấp,Lượn sóng,Vừa,Rậm,Uc
 Đen,Nhỏ,Đen,31,Thấp,Thẳng,Mỏng,Rậm,Uc
+Đen,Vừa,Vàng,31,Cao,Xoăn,Mỏng,Rậm,Uc
 Đen,To,Đen,15,Thấp,Xoăn,Mỏng,Rậm,Au
 Đen,To,Đen,31,Thấp,Xoăn,Dày,Thưa,Phi
 Đen,To,Vàng,17,Cao,Xoăn,Mỏng,Thưa,A
@@ -270,22 +306,27 @@ Xám,Nhỏ,Đen,20,Thấp,Xoăn,Mỏng,Thưa,A
 Lam,Nhỏ,Đen,12,Thấp,Thẳng,Vừa,Rậm,Au
 Đen,Nhỏ,Đen,22,Cao,Thẳng,Vừa,Rậm,A
 Đen,Nhỏ,Vàng,28,Cao,Xoăn,Dày,Rậm,Uc
+Đen,Vừa,Đỏ,24,Cao,Xoăn,Vừa,Thưa,A
 Đen,To,Đen,28,Thấp,Thẳng,Mỏng,Thưa,Uc
 Đen,Nhỏ,Đen,35,Thấp,Thẳng,Mỏng,Thưa,Phi
 Đen,To,Đen,21,Cao,Lượn sóng,Mỏng,Thưa,A
+Đen,Vừa,Vàng,31,Thấp,Xoăn,Mỏng,Rậm,Uc
 Đen,To,Đen,16,Thấp,Lượn sóng,Vừa,Rậm,Au
 Đen,Nhỏ,Đen,12,Cao,Lượn sóng,Mỏng,Rậm,Au
+Đen,Vừa,Đen,15,Cao,Thẳng,Dày,Thưa,A
 Đen,To,Đen,19,Cao,Xoăn,Dày,Thưa,A
 Đen,To,Đen,17,Thấp,Xoăn,Vừa,Thưa,A
 Đen,To,Đen,19,Thấp,Xoăn,Vừa,Thưa,A
 Đen,To,Đen,23,Thấp,Lượn sóng,Dày,Rậm,Uc
 Đen,Nhỏ,Đen,31,Thấp,Lượn sóng,Vừa,Rậm,Uc
+Đen,Vừa,Đen,27,Cao,Xoăn,Dày,Thưa,Uc
 Đen,Nhỏ,Đen,22,Cao,Xoăn,Mỏng,Thưa,A
 Đen,To,Đen,9,Cao,Xoăn,Vừa,Rậm,Au
 Đen,Nhỏ,Đỏ,17,Thấp,Xoăn,Dày,Thưa,A
 Đen,To,Đen,10,Thấp,Xoăn,Dày,Rậm,Au
 Đen,Nhỏ,Đen,20,Thấp,Thẳng,Vừa,Thưa,A
 Đen,To,Đen,19,Thấp,Xoăn,Vừa,Thưa,A
+Đen,Vừa,Đen,23,Thấp,Xoăn,Mỏng,Rậm,A
 Đen,Nhỏ,Đen,9,Cao,Xoăn,Dày,Rậm,Au
 Đen,Nhỏ,Đen,24,Thấp,Xoăn,Dày,Rậm,A
 Đen,Nhỏ,Đen,22,Cao,Xoăn,Vừa,Thưa,A
@@ -296,6 +337,7 @@ Vàng,Nhỏ,Vàng,17,Thấp,Thẳng,Vừa,Thưa,A
 Đen,Nhỏ,Đen,21,Thấp,Thẳng,Mỏng,Thưa,A
 Đen,Nhỏ,Đen,17,Thấp,Thẳng,Dày,Rậm,A
 Đen,To,Đen,19,Thấp,Thẳng,Dày,Thưa,A
+Đen,Vừa,Đen,17,Cao,Thẳng,Vừa,Rậm,A
 Đen,To,Đen,12,Cao,Xoăn,Vừa,Rậm,Au
 Đen,Nhỏ,Đen,24,Thấp,Xoăn,Mỏng,Thưa,Phi
 Đen,To,Đen,17,Cao,Xoăn,Vừa,Rậm,Au
@@ -318,6 +360,7 @@ Xám,To,Đen,16,Thấp,Xoăn,Mỏng,Rậm,Au
 Đen,To,Đen,12,Cao,Lượn sóng,Vừa,Thưa,Au
 Đen,Nhỏ,Vàng,23,Thấp,Thẳng,Dày,Rậm,A
 Đen,To,Đen,21,Thấp,Xoăn,Dày,Thưa,Phi
+Xám,Vừa,Đen,17,Cao,Thẳng,Vừa,Thưa,Au
 Đen,To,Đen,24,Thấp,Thẳng,Mỏng,Rậm,Au
 Đen,To,Đen,17,Cao,Xoăn,Mỏng,Thưa,Au
 Đen,To,Đen,20,Cao,Thẳng,Vừa,Rậm,A
@@ -327,9 +370,194 @@ Lam,To,Đen,20,Thấp,Xoăn,Vừa,Thưa,Au
 Đen,To,Đen,26,Cao,Xoăn,Mỏng,Rậm,Phi
 Đen,To,Đen,17,Thấp,Thẳng,Vừa,Rậm,Au
 Đen,To,Đen,30,Thấp,Xoăn,Vừa,Thưa,Phi
+Đen,Vừa,Đen,24,Cao,Thẳng,Dày,Thưa,Phi
 Đen,Nhỏ,Đen,23,Thấp,Thẳng,Mỏng,Rậm,Uc
+Lam,To,Đen,1,Thấp,Thẳng,Mỏng,Thưa,Au
+Đen,Nhỏ,Đen,27,Cao,Thẳng,Dày,Rậm,Phi
+Đen,Nhỏ,Đen,17,Cao,Xoăn,Mỏng,Thưa,A
+Lam,To,Vàng,9,Thấp,Lượn sóng,Mỏng,Thưa,Au
+Đen,To,Vàng,11,Cao,Xoăn,Vừa,Thưa,Au
+Đen,Nhỏ,Đen,7,Thấp,Xoăn,Vừa,Rậm,Au
+Đen,Nhỏ,Đen,5,Cao,Lượn sóng,Vừa,Thưa,Au
+Đen,To,Vàng,9,Thấp,Xoăn,Vừa,Thưa,Au
+Đen,To,Đen,16,Thấp,Thẳng,Vừa,Rậm,A
+Lam,Nhỏ,Đen,10,Cao,Lượn sóng,Mỏng,Thưa,Au
+Đỏ,Nhỏ,Đen,18,Cao,Thẳng,Dày,Rậm,Au
+Lam,Nhỏ,Đen,29,Cao,Lượn sóng,Mỏng,Thưa,Au
+Đen,Nhỏ,Đen,10,Thấp,Thẳng,Vừa,Rậm,A
+Đen,To,Vàng,30,Thấp,Thẳng,Vừa,Thưa,Au
+Đen,Nhỏ,Đen,14,Cao,Lượn sóng,Mỏng,Thưa,A
+Đen,To,Vàng,8,Thấp,Xoăn,Dày,Rậm,Au
+Đen,Nhỏ,Đen,17,Thấp,Lượn sóng,Dày,Rậm,Uc
+Đen,Vừa,Đen,15,Cao,Thẳng,Vừa,Rậm,Au
+Đen,Nhỏ,Đen,16,Thấp,Thẳng,Vừa,Thưa,A
+Đen,To,Đen,26,Cao,Lượn sóng,Vừa,Rậm,A
+Lam,To,Vàng,26,Cao,Lượn sóng,Dày,Rậm,Au
+Xám,Nhỏ,Đen,5,Cao,Xoăn,Dày,Thưa,Au
+Đen,Nhỏ,Đen,28,Thấp,Thẳng,Mỏng,Thưa,A
+Lam,To,Vàng,18,Cao,Xoăn,Dày,Rậm,Au
+Đen,To,Đen,31,Cao,Xoăn,Vừa,Thưa,Phi
+Đen,To,Đen,23,Cao,Xoăn,Mỏng,Rậm,A
+Lam,Nhỏ,Đen,35,Thấp,Lượn sóng,Dày,Thưa,Au
+Đen,Nhỏ,Đen,13,Thấp,Thẳng,Mỏng,Thưa,A
+Xám,Nhỏ,Vàng,10,Cao,Xoăn,Dày,Thưa,Au
+Đen,Nhỏ,Đen,22,Cao,Xoăn,Vừa,Thưa,A
+Đen,Nhỏ,Vàng,14,Cao,Thẳng,Vừa,Thưa,Au
+Đen,Nhỏ,Vàng,17,Thấp,Xoăn,Dày,Thưa,Au
+Đen,Nhỏ,Đen,19,Thấp,Thẳng,Dày,Rậm,A
+Đen,Nhỏ,Đen,26,Cao,Lượn sóng,Mỏng,Rậm,A
+Đen,To,Vàng,1,Cao,Lượn sóng,Vừa,Rậm,Au
+Đen,Nhỏ,Đen,27,Thấp,Thẳng,Mỏng,Thưa,A
+Đen,To,Vàng,16,Thấp,Thẳng,Vừa,Thưa,Au
+Đen,Nhỏ,Đen,21,Thấp,Xoăn,Vừa,Rậm,A
+Vàng,Vừa,Đen,22,Thấp,Xoăn,Mỏng,Thưa,Au
+Lam,Nhỏ,Đen,30,Cao,Lượn sóng,Vừa,Thưa,Au
+Lam,Nhỏ,Đen,11,Cao,Lượn sóng,Vừa,Rậm,Au
+Đen,Nhỏ,Đen,14,Thấp,Xoăn,Dày,Thưa,A
+Đen,Nhỏ,Đen,28,Thấp,Xoăn,Dày,Thưa,Phi
+Đen,Nhỏ,Đen,20,Cao,Thẳng,Vừa,Thưa,A
+Đen,To,Đen,2,Cao,Thẳng,Mỏng,Rậm,Au
+Đen,Nhỏ,Đen,25,Cao,Thẳng,Dày,Thưa,A
+Đen,Nhỏ,Đen,12,Thấp,Thẳng,Vừa,Thưa,A
+Đen,Nhỏ,Vàng,15,Thấp,Thẳng,Vừa,Rậm,Au
+Đỏ,To,Đen,32,Cao,Thẳng,Dày,Thưa,Au
+Đen,Nhỏ,Đỏ,17,Cao,Lượn sóng,Mỏng,Rậm,Au
+Xám,To,Vàng,9,Cao,Thẳng,Vừa,Thưa,Au
+Đen,To,Đen,8,Thấp,Thẳng,Mỏng,Thưa,Au
+Đen,Nhỏ,Đen,24,Cao,Thẳng,Vừa,Thưa,A
+Đen,Vừa,Đen,19,Thấp,Xoăn,Mỏng,Rậm,A
+Đen,To,Vàng,25,Thấp,Lượn sóng,Dày,Rậm,Au
+Đen,Nhỏ,Đen,16,Thấp,Xoăn,Vừa,Rậm,A
+Đen,Nhỏ,Đen,32,Cao,Lượn sóng,Mỏng,Thưa,Uc
+Đen,To,Đen,8,Thấp,Xoăn,Dày,Rậm,Au
+Lam,To,Đen,30,Thấp,Thẳng,Mỏng,Thưa,Au
+Lam,Nhỏ,Đen,21,Cao,Xoăn,Mỏng,Rậm,Au
+Đen,To,Đen,16,Thấp,Xoăn,Dày,Thưa,A
+Đen,Nhỏ,Đen,4,Cao,Thẳng,Dày,Thưa,Au
+Đen,Vừa,Vàng,14,Thấp,Thẳng,Vừa,Rậm,Au
+Đen,Nhỏ,Đen,4,Cao,Xoăn,Dày,Thưa,Au
+Đen,Vừa,Đen,16,Thấp,Lượn sóng,Vừa,Thưa,A
+Đen,Vừa,Đen,8,Thấp,Lượn sóng,Dày,Thưa,Au
+Đen,To,Vàng,10,Thấp,Thẳng,Vừa,Rậm,Au
+Đen,Nhỏ,Đen,13,Thấp,Lượn sóng,Mỏng,Thưa,A
+Đen,Nhỏ,Đen,15,Cao,Xoăn,Vừa,Rậm,Au
+Đen,To,Vàng,28,Cao,Xoăn,Dày,Thưa,Au
+Đen,Nhỏ,Đen,31,Thấp,Lượn sóng,Mỏng,Thưa,Uc
+Đen,To,Đen,12,Cao,Lượn sóng,Mỏng,Thưa,A
+Đen,Nhỏ,Vàng,16,Thấp,Thẳng,Vừa,Thưa,Au
+Đen,To,Đen,22,Thấp,Thẳng,Vừa,Thưa,A
+Lam,Nhỏ,Vàng,25,Thấp,Thẳng,Vừa,Rậm,Au
+Tím,Nhỏ,Đen,15,Thấp,Xoăn,Vừa,Thưa,Au
+Đen,To,Đen,16,Thấp,Thẳng,Vừa,Thưa,A
+Lam,To,Vàng,20,Thấp,Thẳng,Vừa,Thưa,Au
+Đen,Nhỏ,Đen,10,Thấp,Xoăn,Dày,Rậm,A
+Vàng,To,Vàng,4,Thấp,Lượn sóng,Mỏng,Thưa,Au
+Đen,To,Đen,27,Cao,Thẳng,Mỏng,Thưa,A
+Đen,Nhỏ,Đen,12,Thấp,Thẳng,Vừa,Rậm,A
+Đen,Nhỏ,Đen,12,Cao,Lượn sóng,Dày,Rậm,Au
+Lam,Nhỏ,Đen,22,Thấp,Thẳng,Vừa,Rậm,Au
+Đen,Vừa,Đen,15,Thấp,Thẳng,Dày,Thưa,A
+Lam,Nhỏ,Đen,4,Thấp,Lượn sóng,Dày,Rậm,Au
+Đen,Nhỏ,Đen,27,Cao,Xoăn,Vừa,Thưa,A
+Lam,To,Đen,18,Thấp,Xoăn,Dày,Thưa,Au
+Đen,To,Đen,27,Thấp,Thẳng,Mỏng,Thưa,A
+Đen,Vừa,Vàng,13,Cao,Lượn sóng,Vừa,Rậm,Au
+Đen,To,Đen,9,Cao,Thẳng,Vừa,Thưa,Au
+Vàng,Nhỏ,Đen,12,Cao,Lượn sóng,Dày,Thưa,Au
+Đen,Nhỏ,Đen,7,Thấp,Lượn sóng,Vừa,Thưa,Au
+Đen,Nhỏ,Vàng,19,Thấp,Thẳng,Dày,Thưa,Au
+Đen,Nhỏ,Vàng,5,Cao,Lượn sóng,Dày,Thưa,Au
+Đen,Nhỏ,Đen,5,Thấp,Lượn sóng,Vừa,Thưa,Au
+Đen,To,Đen,9,Cao,Thẳng,Mỏng,Thưa,Au
+Đen,Nhỏ,Đen,20,Thấp,Thẳng,Vừa,Rậm,A
+Đen,To,Đen,12,Thấp,Xoăn,Dày,Thưa,A
+Lam,To,Vàng,12,Thấp,Lượn sóng,Vừa,Rậm,Au
+Đen,Nhỏ,Đen,14,Thấp,Lượn sóng,Dày,Rậm,A
+Đen,To,Vàng,12,Thấp,Xoăn,Dày,Rậm,Au
+Lam,Nhỏ,Đen,24,Cao,Thẳng,Dày,Thưa,Au
+Lam,Vừa,Vàng,6,Thấp,Xoăn,Dày,Rậm,Au
+Lam,Nhỏ,Đen,14,Cao,Xoăn,Vừa,Rậm,Au
+Đen,Nhỏ,Đen,23,Thấp,Thẳng,Dày,Rậm,A
+Đen,To,Đen,11,Cao,Lượn sóng,Vừa,Rậm,Au
+Đen,Nhỏ,Đen,26,Cao,Lượn sóng,Dày,Rậm,Uc
+Đen,To,Đen,1,Thấp,Thẳng,Dày,Thưa,Au
+Đen,Nhỏ,Đen,34,Thấp,Lượn sóng,Vừa,Thưa,Uc
+Đen,To,Đen,12,Thấp,Xoăn,Vừa,Thưa,A
+Đen,Nhỏ,Đen,12,Thấp,Thẳng,Dày,Rậm,A
+Đen,Nhỏ,Đen,27,Cao,Xoăn,Vừa,Thưa,A
+Đen,To,Đen,12,Thấp,Lượn sóng,Vừa,Rậm,A
+Xám,To,Vàng,6,Cao,Lượn sóng,Dày,Rậm,Au
+Đen,To,Đen,16,Thấp,Thẳng,Dày,Thưa,A
+Đen,Nhỏ,Đen,15,Thấp,Lượn sóng,Vừa,Rậm,A
+Đen,Nhỏ,Đen,14,Thấp,Thẳng,Vừa,Thưa,A
+Đen,Nhỏ,Đen,9,Thấp,Xoăn,Vừa,Thưa,Au
+Đen,Nhỏ,Đen,8,Cao,Xoăn,Vừa,Rậm,Au
+Đen,Nhỏ,Đen,29,Thấp,Xoăn,Mỏng,Thưa,Phi
+Đen,To,Vàng,22,Cao,Lượn sóng,Vừa,Rậm,Au
+Đen,To,Đen,17,Thấp,Thẳng,Mỏng,Rậm,A
+Đen,To,Vàng,31,Thấp,Xoăn,Mỏng,Rậm,Au
+Đen,To,Vàng,15,Thấp,Xoăn,Dày,Rậm,Au
+Đen,To,Đen,13,Thấp,Lượn sóng,Dày,Thưa,A
+Xám,Nhỏ,Đen,20,Cao,Thẳng,Vừa,Thưa,Au
+Đen,To,Đen,20,Cao,Xoăn,Dày,Thưa,A
+Đen,To,Đen,21,Thấp,Thẳng,Mỏng,Thưa,A
+Đen,To,Vàng,13,Cao,Lượn sóng,Dày,Thưa,Au
+Đen,To,Vàng,1,Thấp,Thẳng,Mỏng,Rậm,Au
+Lam,Nhỏ,Đen,15,Cao,Xoăn,Vừa,Thưa,Au
+Lam,To,Đen,8,Cao,Thẳng,Vừa,Thưa,Au
+Vàng,Nhỏ,Đen,9,Cao,Thẳng,Dày,Rậm,Au
+Đen,To,Đen,21,Thấp,Lượn sóng,Vừa,Thưa,A
+Đen,To,Đen,9,Thấp,Thẳng,Mỏng,Rậm,Au
+Đen,Nhỏ,Đen,13,Cao,Thẳng,Dày,Thưa,A
+Đen,Vừa,Vàng,21,Thấp,Xoăn,Dày,Rậm,Au
+Đen,Nhỏ,Đen,7,Cao,Xoăn,Vừa,Thưa,Au
+Đen,Nhỏ,Đen,17,Cao,Thẳng,Mỏng,Rậm,A
+Lam,Nhỏ,Đen,20,Cao,Lượn sóng,Vừa,Rậm,Au
+Xám,Nhỏ,Đen,5,Thấp,Lượn sóng,Dày,Thưa,Au
+Đen,To,Đen,16,Thấp,Lượn sóng,Dày,Thưa,A
+Lam,To,Đen,31,Cao,Lượn sóng,Dày,Rậm,Au
+Đen,Nhỏ,Đen,25,Cao,Lượn sóng,Vừa,Rậm,A
+Đen,To,Đen,11,Thấp,Xoăn,Mỏng,Rậm,A
+Đen,To,Đen,24,Thấp,Xoăn,Dày,Rậm,A
+Đen,To,Đen,34,Thấp,Thẳng,Dày,Rậm,Phi
+Đen,Nhỏ,Đen,30,Thấp,Xoăn,Vừa,Thưa,Phi
+Lam,Nhỏ,Vàng,15,Thấp,Lượn sóng,Vừa,Rậm,Au
+Đen,To,Đen,23,Thấp,Thẳng,Vừa,Rậm,A
+Đen,Nhỏ,Đen,3,Cao,Lượn sóng,Mỏng,Rậm,Au
+Đen,To,Đen,19,Cao,Xoăn,Vừa,Rậm,A
+Đen,To,Đen,14,Thấp,Lượn sóng,Vừa,Thưa,A
+Đen,To,Đen,23,Cao,Thẳng,Mỏng,Rậm,A
+Đen,To,Vàng,27,Cao,Thẳng,Mỏng,Thưa,Au
+Đen,Nhỏ,Đen,19,Thấp,Lượn sóng,Vừa,Rậm,A
+Lam,Nhỏ,Đen,13,Cao,Lượn sóng,Vừa,Rậm,Au
+Đen,Nhỏ,Đen,20,Thấp,Thẳng,Mỏng,Thưa,A
+Đen,Nhỏ,Đen,4,Thấp,Lượn sóng,Mỏng,Thưa,Au
+Xám,To,Vàng,30,Thấp,Thẳng,Vừa,Rậm,Au
+Lam,Nhỏ,Đen,11,Thấp,Xoăn,Mỏng,Thưa,Au
+Đen,To,Đen,24,Cao,Lượn sóng,Mỏng,Rậm,A
+Đen,Vừa,Đen,31,Thấp,Thẳng,Dày,Thưa,Phi
+Đen,To,Đen,17,Cao,Thẳng,Dày,Rậm,A
+Đen,To,Đỏ,11,Cao,Thẳng,Vừa,Thưa,Au
+Đen,Nhỏ,Vàng,23,Thấp,Thẳng,Vừa,Rậm,Au
+Xám,To,Đen,23,Cao,Thẳng,Dày,Thưa,Au
+Đen,To,Vàng,14,Cao,Thẳng,Mỏng,Thưa,Au
+Đen,Nhỏ,Đen,18,Cao,Lượn sóng,Vừa,Rậm,A
+Đen,Vừa,Đen,25,Cao,Thẳng,Vừa,Rậm,A
+Lam,To,Đen,10,Thấp,Thẳng,Vừa,Rậm,Au
+Đen,Nhỏ,Vàng,28,Cao,Thẳng,Mỏng,Thưa,Au
+Xám,Nhỏ,Vàng,3,Cao,Xoăn,Dày,Rậm,Au
+Đen,To,Đen,32,Thấp,Xoăn,Vừa,Thưa,Phi
+Đen,Nhỏ,Vàng,18,Cao,Lượn sóng,Vừa,Rậm,Au
+Đen,Nhỏ,Đen,32,Thấp,Xoăn,Vừa,Thưa,Phi
+Lam,To,Đen,4,Thấp,Thẳng,Dày,Thưa,Au
+Đen,Vừa,Đen,19,Cao,Xoăn,Vừa,Rậm,A
+Đen,To,Đỏ,14,Thấp,Thẳng,Mỏng,Rậm,Au
+Đen,To,Đen,26,Cao,Lượn sóng,Dày,Rậm,Uc
+Đen,Nhỏ,Đỏ,10,Thấp,Lượn sóng,Dày,Rậm,Au
+Đen,Nhỏ,Đen,20,Thấp,Xoăn,Dày,Thưa,A
 Đen,To,Vàng,14,Cao,Xoăn,Mỏng,Thưa,Au
 Đen,To,Đen,24,Thấp,Lượn sóng,Vừa,Thưa,A
+Đen,Vừa,Đen,22,Thấp,Lượn sóng,Mỏng,Rậm,A
 Đen,Nhỏ,Đen,20,Cao,Thẳng,Dày,Thưa,A
 Đen,Nhỏ,Đỏ,11,Thấp,Thẳng,Dày,Thưa,Au
 Đen,Nhỏ,Vàng,25,Thấp,Thẳng,Mỏng,Thưa,Au
@@ -342,6 +570,8 @@ Xám,To,Đen,18,Cao,Thẳng,Mỏng,Thưa,Au
 Đỏ,To,Đen,16,Cao,Lượn sóng,Vừa,Thưa,Au
 Đen,Nhỏ,Đen,24,Thấp,Xoăn,Dày,Thưa,A
 Đen,To,Đen,27,Thấp,Thẳng,Vừa,Rậm,A
+Đen,Vừa,Đen,32,Thấp,Lượn sóng,Dày,Rậm,Phi
+Đen,Vừa,Vàng,18,Thấp,Lượn sóng,Mỏng,Rậm,Au
 Đen,To,Đen,15,Thấp,Xoăn,Vừa,Rậm,A
 Đen,To,Đen,32,Thấp,Xoăn,Dày,Thưa,Phi
 Đen,Nhỏ,Vàng,22,Thấp,Xoăn,Dày,Rậm,Au
@@ -360,8 +590,11 @@ Xám,Nhỏ,Đen,23,Thấp,Thẳng,Dày,Thưa,Au
 Đen,To,Vàng,7,Thấp,Lượn sóng,Mỏng,Rậm,Au
 Tím,Nhỏ,Đen,12,Cao,Lượn sóng,Mỏng,Rậm,Au
 Đen,Nhỏ,Đen,26,Thấp,Thẳng,Dày,Thưa,A
+Đen,Vừa,Đen,18,Cao,Thẳng,Vừa,Thưa,A
 Xám,To,Vàng,2,Thấp,Xoăn,Vừa,Rậm,Au
 Đen,To,Đen,13,Cao,Xoăn,Vừa,Thưa,A
+Đen,Vừa,Đen,18,Cao,Thẳng,Vừa,Rậm,A
+Đen,Vừa,Đen,21,Cao,Xoăn,Dày,Thưa,A
 Đen,Nhỏ,Đen,12,Thấp,Lượn sóng,Vừa,Thưa,A
 Đen,Nhỏ,Đen,9,Cao,Xoăn,Dày,Thưa,Au
 Đen,Nhỏ,Vàng,18,Cao,Thẳng,Vừa,Thưa,Au
@@ -380,24 +613,29 @@ Lam,To,Đen,22,Cao,Lượn sóng,Vừa,Thưa,Au
 Đen,To,Đen,20,Thấp,Xoăn,Dày,Thưa,A
 Đen,To,Vàng,23,Cao,Lượn sóng,Vừa,Rậm,Au
 Đen,To,Đen,32,Cao,Thẳng,Mỏng,Thưa,Phi
+Đen,Vừa,Đen,21,Thấp,Lượn sóng,Vừa,Rậm,A
 Đen,Nhỏ,Đen,23,Thấp,Xoăn,Vừa,Rậm,A
 Lam,To,Đen,6,Cao,Xoăn,Vừa,Rậm,Au
+Đen,Vừa,Đỏ,21,Thấp,Thẳng,Mỏng,Thưa,Au
 Đen,To,Đen,15,Cao,Lượn sóng,Dày,Thưa,A
 Đen,Nhỏ,Đen,17,Thấp,Xoăn,Mỏng,Thưa,A
 Đen,Nhỏ,Đen,17,Cao,Thẳng,Vừa,Thưa,A
 Lam,Nhỏ,Đen,21,Thấp,Lượn sóng,Mỏng,Thưa,Au
 Đen,To,Đỏ,14,Thấp,Lượn sóng,Mỏng,Thưa,Au
 Lam,Nhỏ,Đen,34,Thấp,Lượn sóng,Vừa,Thưa,Au
+Đen,Vừa,Đen,24,Cao,Thẳng,Mỏng,Thưa,A
 Đen,To,Đen,16,Thấp,Lượn sóng,Dày,Rậm,Uc
 Đen,Nhỏ,Đen,19,Thấp,Lượn sóng,Vừa,Rậm,A
 Đen,Nhỏ,Đen,32,Thấp,Lượn sóng,Mỏng,Thưa,Uc
 Lục,To,Vàng,29,Cao,Thẳng,Mỏng,Rậm,Au
+Lam,Vừa,Đỏ,1,Thấp,Thẳng,Vừa,Rậm,Au
 Xám,Nhỏ,Đen,25,Cao,Xoăn,Mỏng,Thưa,Au
 Đen,To,Vàng,3,Thấp,Xoăn,Dày,Thưa,Au
 Đen,Nhỏ,Đen,11,Thấp,Lượn sóng,Vừa,Thưa,A
 Đen,Nhỏ,Đen,18,Thấp,Xoăn,Vừa,Thưa,A
 Đen,Nhỏ,Đen,8,Thấp,Thẳng,Vừa,Thưa,Au
 Đen,To,Đỏ,28,Thấp,Xoăn,Vừa,Thưa,Au
+Lam,Vừa,Vàng,6,Thấp,Thẳng,Dày,Thưa,Au
 Đen,Nhỏ,Đen,18,Thấp,Thẳng,Dày,Rậm,A
 Lục,To,Vàng,27,Thấp,Xoăn,Vừa,Thưa,Au
 Đen,Nhỏ,Vàng,21,Thấp,Xoăn,Vừa,Thưa,Au
@@ -415,6 +653,7 @@ Lam,Nhỏ,Đen,27,Thấp,Xoăn,Dày,Rậm,Au
 Lam,Nhỏ,Đen,22,Thấp,Lượn sóng,Dày,Thưa,Au
 Đen,To,Đen,16,Thấp,Thẳng,Vừa,Thưa,A
 Đen,To,Đen,13,Cao,Thẳng,Vừa,Thưa,A
+Đen,Vừa,Đen,17,Thấp,Thẳng,Mỏng,Rậm,A
 Lam,To,Vàng,18,Thấp,Lượn sóng,Mỏng,Rậm,Au
 Đen,To,Đen,13,Thấp,Thẳng,Dày,Rậm,A
 Đen,Nhỏ,Đen,17,Thấp,Xoăn,Dày,Thưa,A
@@ -443,6 +682,7 @@ Lam,To,Vàng,18,Thấp,Lượn sóng,Mỏng,Rậm,Au
 Đen,Nhỏ,Đen,25,Thấp,Lượn sóng,Vừa,Thưa,A
 Đen,To,Đen,10,Thấp,Xoăn,Dày,Rậm,A
 Đen,Nhỏ,Đen,30,Cao,Thẳng,Mỏng,Thưa,A
+Đen,Vừa,Đen,23,Cao,Xoăn,Mỏng,Thưa,A
 Đen,To,Đen,21,Thấp,Thẳng,Dày,Thưa,A
 Đen,To,Vàng,15,Thấp,Lượn sóng,Mỏng,Thưa,Au
 Đen,To,Đen,23,Thấp,Thẳng,Mỏng,Thưa,A
@@ -476,6 +716,7 @@ Xám,Nhỏ,Đen,29,Thấp,Lượn sóng,Mỏng,Rậm,Au
 Đen,To,Đen,22,Cao,Xoăn,Dày,Rậm,A
 Xám,To,Đen,15,Thấp,Xoăn,Mỏng,Rậm,Au
 Đen,To,Đen,4,Thấp,Lượn sóng,Dày,Thưa,Au
+Đen,Vừa,Vàng,15,Cao,Xoăn,Dày,Thưa,Au
 Đen,To,Vàng,20,Thấp,Xoăn,Vừa,Rậm,Au
 Lam,Nhỏ,Đen,11,Thấp,Lượn sóng,Vừa,Thưa,Au
 Đen,To,Đen,10,Cao,Thẳng,Vừa,Thưa,A
@@ -508,6 +749,7 @@ Lục,To,Đen,15,Thấp,Thẳng,Mỏng,Thưa,Au
 Đen,To,Đen,19,Cao,Lượn sóng,Dày,Rậm,Uc
 Đen,Nhỏ,Đen,33,Cao,Xoăn,Mỏng,Thưa,Phi
 Đen,Nhỏ,Đỏ,10,Cao,Thẳng,Mỏng,Thưa,Au
+Đen,Vừa,Đen,17,Thấp,Lượn sóng,Dày,Rậm,Uc
 Đen,Nhỏ,Đen,10,Thấp,Thẳng,Dày,Thưa,A
 Đen,To,Vàng,26,Thấp,Thẳng,Mỏng,Rậm,Au
 Đen,To,Vàng,16,Cao,Lượn sóng,Dày,Thưa,Au

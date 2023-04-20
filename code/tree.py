@@ -1,6 +1,6 @@
 import pandas as pd
 import random
-df = pd.read_csv('data.csv')
+df = pd.read_csv('dataSinhv2.csv')
 
 #1:,2:,3:Au,4
 
