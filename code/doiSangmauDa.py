@@ -19,4 +19,4 @@ for i in range(381):
 
 
     
-df.to_csv('data1234.csv', encoding='utf-8', index=False)
+df.to_csv('dataSinhv3.csv', encoding='utf-8', index=False)

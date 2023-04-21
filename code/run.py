@@ -10,6 +10,8 @@ lstKieuMuiTuNhien=["Cao","Thấp"]
 lstKieuTocTuNhien=["Xoăn","Thẳng","Lượn sóng"]
 lstKieuMoi=["Dày","Mỏng"]
 lstMauDa=["Trắng Sáng","Trắng Vàng","Nâu Vừa", "Nâu Sậm"]
+lstKieuKhuonMat=["Dài","Dô","Ngắn","Bẹt"]
+
 
 
 def phanPhoiChuan(a,b,c):
@@ -24,22 +26,25 @@ def phanPhoiChuan(a,b,c):
 
 
 fieldnames = [ 'Màu Mắt','Kiểu Mắt', 'Màu Tóc Tự Nhiên', 'Màu Da', 'Kiểu Mũi'
-            , 'Kiểu Tóc', 'Kiểu Môi','Râu Tóc Lông', 'Chủng Tộc']
+            , 'Kiểu Tóc', 'Kiểu Môi','Râu Tóc Lông','Kiểu Khuôn Mặt', 'Chủng Tộc']
 
 records = []
 for i in range(3000):
     record = { 'Màu Mắt':'','Kiểu Mắt':'', 'Màu Tóc Tự Nhiên':'', 'Màu Da':'', 'Kiểu Mũi':''
-            , 'Kiểu Tóc':'','Kiểu Môi':'','Râu Tóc Lông':'',  'Chủng Tộc':''}
+            , 'Kiểu Tóc':'','Kiểu Môi':'','Râu Tóc Lông':'','Kiểu Khuôn Mặt':'',  'Chủng Tộc':''}
    
     record['Màu Mắt']=(choose2(lstMauMatTuNhien, 90, 8,2))
     record['Kiểu Mắt']=(choose2(lstKieuMat, 40,60))
     record['Màu Tóc Tự Nhiên']=(choose2(lstMauTocTuNhien, 90,8,2))
-#    record['Màu Da']=(int(np.random.normal(22,6, 1)))
-    record['Màu Da']=(choose2(lstMauDa, 5,20,35,40))
+    #record['Màu Da']=(int(np.random.normal(24,5, 1)))
+    #record['Màu Da']=(choose2(lstMauDa, 5,20,35,40))
+    record['Màu Da']=(phanPhoiChuan(24,6,1))
+
     record['Kiểu Mũi']=(choose2(lstKieuMuiTuNhien,20, 80))
     record['Kiểu Tóc']=(choose2(lstKieuTocTuNhien, 40,30,30))
     record['Kiểu Môi']=(choose2(lstKieuMoi, 60,40))
     record['Râu Tóc Lông']=(choose2(lstRauTocLong, 70,30))
+    record['Kiểu Khuôn Mặt']=(choose2(lstKieuKhuonMat, 25,20,15,40))
 
     record['Chủng Tộc']=''
     records.append(record)
